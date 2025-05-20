@@ -1,1 +1,1157 @@
-
+[
+  {
+    "ProductName": "Ambroxol HCL",
+    "CasNo": "23828-92-4",
+    "Unit": "Kg",
+    "Making": "Synergene",
+    "Rates": 4850
+  },
+  {
+    "ProductName": "Ascorbic Acid (Vitamin C Coated)",
+    "CasNo": "50-81-7",
+    "Unit": "Kg",
+    "Making": "India",
+    "Rates": 690
+  },
+  {
+    "ProductName": "Ascorbic Acid (Vitamin C Coated)",
+    "CasNo": "50-81-7",
+    "Unit": "Kg",
+    "Making": "Sarabhai",
+    "Rates": 450
+  },
+  {
+    "ProductName": "Aspartame(AM Sweet)",
+    "CasNo": "22839-47-0",
+    "Unit": "Kg",
+    "Making": "Geleriya",
+    "Rates": 480
+  },
+  {
+    "ProductName": "Aspartame Usp",
+    "CasNo": "22839-47-0",
+    "Unit": "Kg",
+    "Making": "G Sweet",
+    "Rates": 1550
+  },
+  {
+    "ProductName": "Azithromycin ip",
+    "CasNo": "83905-01-05",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 13400
+  },
+  {
+    "ProductName": "Betacarotene 10% Powder",
+    "CasNo": "7235-40-7",
+    "Unit": "Kg",
+    "Making": "Aushdhi Herbals",
+    "Rates": 8500
+  },
+  {
+    "ProductName": "Betacarotene 20% Powder",
+    "CasNo": "7235-40-7",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 8500
+  },
+  {
+    "ProductName": "Betacarotene 30% Oil",
+    "CasNo": "7235-40-7",
+    "Unit": "Kg",
+    "Making": "Basf",
+    "Rates": 9500
+  },
+  {
+    "ProductName": "Betamethasone Dipropionate USP",
+    "CasNo": "5593-20-4",
+    "Unit": "Gram",
+    "Making": "Sanjivani",
+    "Rates": 75
+  },
+  {
+    "ProductName": "Celecoxib",
+    "CasNo": "169590-42-5",
+    "Unit": "Kg",
+    "Making": "Prudence",
+    "Rates": 2800
+  },
+  {
+    "ProductName": "Coenzyme Q10",
+    "CasNo": "303-98-0",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 28000
+  },
+  {
+    "ProductName": "Dextromethorphan hydrobromide(DMR)",
+    "CasNo": "125-69-9",
+    "Unit": "Kg",
+    "Making": "Supriya life",
+    "Rates": 6800
+  },
+  {
+    "ProductName": "Dextromethorphan hydrobromide(DMR)",
+    "CasNo": "125-69-9",
+    "Unit": "Kg",
+    "Making": "Wockhardt Ltd",
+    "Rates": 6800
+  },
+  {
+    "ProductName": "Dextromethorphan hydrobromide(DMR)",
+    "CasNo": "125-69-9",
+    "Unit": "Kg",
+    "Making": "Ggc Chemicals",
+    "Rates": 6500
+  },
+  {
+    "ProductName": "Deflazacort IH",
+    "CasNo": "14484-47-0",
+    "Unit": "Gm",
+    "Making": "Infinity",
+    "Rates": 85
+  },
+  {
+    "ProductName": "Fungal Diastase 1:2000",
+    "CasNo": "9001-13-8",
+    "Unit": "Kg",
+    "Making": "Ann Org",
+    "Rates": 880
+  },
+  {
+    "ProductName": "Lutein 10% Powder",
+    "CasNo": "127-40-2",
+    "Unit": "Kg",
+    "Making": "China(KBE Technology)",
+    "Rates": 4500
+  },
+  {
+    "ProductName": "Meglumine Usp",
+    "CasNo": "6284-40-8",
+    "Unit": "Kg",
+    "Making": "Aither",
+    "Rates": 1050
+  },
+  {
+    "ProductName": "Neomalt/ Aspartam",
+    "CasNo": "22839-47-0",
+    "Unit": "Kg",
+    "Making": "Alamelu",
+    "Rates": 450
+  },
+  {
+    "ProductName": "Neomalt",
+    "CasNo": "22839-47-0",
+    "Unit": "Kg",
+    "Making": "Alamelu",
+    "Rates": 450
+  },
+  {
+    "ProductName": "Omeprazole Sodium IP",
+    "CasNo": "95510-70-6",
+    "Unit": "Kg",
+    "Making": "Metrochem",
+    "Rates": 4000
+  },
+  {
+    "ProductName": "Pregabalin Ip",
+    "CasNo": "148553-50-8",
+    "Unit": "Kg",
+    "Making": "Ggc",
+    "Rates": 3200
+  },
+  {
+    "ProductName": "Pregabalin Ip",
+    "CasNo": "148553-50-8",
+    "Unit": "Kg",
+    "Making": "Elixir",
+    "Rates": 3200
+  },
+  {
+    "ProductName": "Rosuvastatin Calcium Ip",
+    "CasNo": "147098-20-2",
+    "Unit": "Kg",
+    "Making": "Reine Life",
+    "Rates": 19000
+  },
+  {
+    "ProductName": "Riboflavin(Vitamin B2)",
+    "CasNo": "83-88-5",
+    "Unit": "Kg",
+    "Making": "Us Amino",
+    "Rates": 3800
+  },
+  {
+    "ProductName": "Sildenafil Citrate Ip",
+    "CasNo": "171599-83-0",
+    "Unit": "Kg",
+    "Making": "Ggc",
+    "Rates": 1600
+  },
+  {
+    "ProductName": "Ursodeoxycholic Acid Ip",
+    "CasNo": "128-13-2",
+    "Unit": "Kg",
+    "Making": "Us Amino",
+    "Rates": 14000
+  },
+  {
+    "ProductName": "AstaxAanthin 10% Powder",
+    "CasNo": "472-61-7",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 9500
+  },
+  {
+    "ProductName": "Calcium Carbonate IP",
+    "CasNo": "471-34-1",
+    "Unit": "Kg",
+    "Making": "Neelkanth",
+    "Rates": 22
+  },
+  {
+    "ProductName": "Calcium Carbonate IP",
+    "CasNo": "471-34-1",
+    "Unit": "Kg",
+    "Making": "Diamond",
+    "Rates": 21
+  },
+  {
+    "ProductName": "Calcium Carbonate IP",
+    "CasNo": "471-34-1",
+    "Unit": "Kg",
+    "Making": "Kalyani",
+    "Rates": 18
+  },
+  {
+    "ProductName": "Calcium Carbonate Oyster Shell",
+    "CasNo": "471-34-1",
+    "Unit": "Kg",
+    "Making": "Neelkanth",
+    "Rates": 17
+  },
+  {
+    "ProductName": "Calcium Carbonate Non IP",
+    "CasNo": "471-34-1",
+    "Unit": "Kg",
+    "Making": "Diamond",
+    "Rates": 16
+  },
+  {
+    "ProductName": "Calcium Carbonate",
+    "CasNo": "471-34-1",
+    "Unit": "Kg",
+    "Making": "Gagan",
+    "Rates": 16
+  },
+  {
+    "ProductName": "Calcium Citrate USP",
+    "CasNo": "813-94-5",
+    "Unit": "Kg",
+    "Making": "Vasa Pharmachem",
+    "Rates": 148
+  },
+  {
+    "ProductName": "Calcium Hydroxide Bp",
+    "CasNo": "1305-62-0",
+    "Unit": "Kg",
+    "Making": "Neelkanth",
+    "Rates": 19
+  },
+  {
+    "ProductName": "Calcium Sulphate (Dihydrate) Bp",
+    "CasNo": "10101-41-4",
+    "Unit": "Kg",
+    "Making": "Neelkanth",
+    "Rates": 20
+  },
+  {
+    "ProductName": "Colloidal Silicon Dioxide (Aerosil)",
+    "CasNo": "7631-86-9",
+    "Unit": "Kg",
+    "Making": "Rajeswari",
+    "Rates": 920
+  },
+  {
+    "ProductName": "Colloidal Silicon Dioxide (Aerosil)",
+    "CasNo": "7631-86-9",
+    "Unit": "Kg",
+    "Making": "Fumed",
+    "Rates": 900
+  },
+  {
+    "ProductName": "D Panthenol",
+    "CasNo": "81-13-0",
+    "Unit": "Kg",
+    "Making": "Tnj",
+    "Rates": 4200
+  },
+  {
+    "ProductName": "D Panthenol USP",
+    "CasNo": "81-13-0",
+    "Unit": "Kg",
+    "Making": "DSM",
+    "Rates": 4200
+  },
+  {
+    "ProductName": "Dcp Ip",
+    "CasNo": "7757-93-9",
+    "Unit": "Kg",
+    "Making": "Kavya",
+    "Rates": 42
+  },
+  {
+    "ProductName": "Dha 10% Veg",
+    "CasNo": "6217-54-5",
+    "Unit": "Kg",
+    "Making": "Coral Organic",
+    "Rates": 1890
+  },
+  {
+    "ProductName": "Dextros Anhydrous Ip",
+    "CasNo": "50-99-7",
+    "Unit": "Kg",
+    "Making": "Sukkjit",
+    "Rates": 80
+  },
+  {
+    "ProductName": "EPA",
+    "CasNo": "10417-94-4",
+    "Unit": "Kg",
+    "Making": "Coral Organic",
+    "Rates": 2200
+  },
+  {
+    "ProductName": "Inositol",
+    "CasNo": "87-89-8",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 1850
+  },
+  {
+    "ProductName": "Isopropyl alcohol (IPA)",
+    "CasNo": "67-63-0",
+    "Unit": "Kg",
+    "Making": "Merck Life",
+    "Rates": 195
+  },
+  {
+    "ProductName": "Isopropyl alcohol (IPA)",
+    "CasNo": "67-63-0",
+    "Unit": "Kg",
+    "Making": "Krish Chemicals",
+    "Rates": 155
+  },
+  {
+    "ProductName": "Lactose 200 Mesh",
+    "CasNo": "63-42-3",
+    "Unit": "kg",
+    "Making": "Maybi",
+    "Rates": 210
+  },
+  {
+    "ProductName": "Lycopene 10% Oil",
+    "CasNo": "502-65-8",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 8500
+  },
+  {
+    "ProductName": "Lycopene 10% Powder",
+    "CasNo": "502-65-8",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 8200
+  },
+  {
+    "ProductName": "L-Carnitine Base",
+    "CasNo": "541-15-1",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 1400
+  },
+  {
+    "ProductName": "LLP IP",
+    "CasNo": "8006-64-2",
+    "Unit": "Kg",
+    "Making": "Divyol",
+    "Rates": 85
+  },
+  {
+    "ProductName": "LLP IP",
+    "CasNo": "8006-64-2",
+    "Unit": "Ltr",
+    "Making": "Morol",
+    "Rates": 95
+  },
+  {
+    "ProductName": "Magnesium Hydroxide ip",
+    "CasNo": "1309-42-8",
+    "Unit": "kg",
+    "Making": "Shreeji",
+    "Rates": 170
+  },
+  {
+    "ProductName": "Magnesium Stearate",
+    "CasNo": "557-04-0",
+    "Unit": "kg",
+    "Making": "Cosmotech",
+    "Rates": 85
+  },
+  {
+    "ProductName": "Metformin Hcl",
+    "CasNo": "1115-70-4",
+    "Unit": "kg",
+    "Making": "Viva Labs",
+    "Rates": 210
+  },
+  {
+    "ProductName": "Mdc",
+    "CasNo": "75-09-2",
+    "Unit": "kg",
+    "Making": "Gfl",
+    "Rates": 65
+  },
+  {
+    "ProductName": "Mps",
+    "CasNo": "9004-34-6",
+    "Unit": "kg",
+    "Making": "Venu Healthcare",
+    "Rates": 450
+  },
+  {
+    "ProductName": "Mccp -101",
+    "CasNo": "9004-34-6",
+    "Unit": "Kg",
+    "Making": "Roquette",
+    "Rates": 190
+  },
+  {
+    "ProductName": "Mccp -102",
+    "CasNo": "9004-34-6",
+    "Unit": "Kg",
+    "Making": "Roquette",
+    "Rates": 190
+  },
+  {
+    "ProductName": "Mccp Plain",
+    "CasNo": "9004-34-6",
+    "Unit": "Kg",
+    "Making": "India Chemphos",
+    "Rates": 48
+  },
+  {
+    "ProductName": "Omega 3 Fatty Acid",
+    "CasNo": "8016-70-4",
+    "Unit": "Kg",
+    "Making": "Coral Organic",
+    "Rates": 1850
+  },
+  {
+    "ProductName": "Pvpk 30",
+    "CasNo": "9003-39-8",
+    "Unit": "Kg",
+    "Making": "Boai NKY",
+    "Rates": 1150
+  },
+  {
+    "ProductName": "Pvpk 30 usp",
+    "CasNo": "9003-39-8",
+    "Unit": "Kg",
+    "Making": "Boai NKY",
+    "Rates": 620
+  },
+  {
+    "ProductName": "Pps",
+    "CasNo": "9003-39-8",
+    "Unit": "Kg",
+    "Making": "Venu Healthcare",
+    "Rates": 540
+  },
+  {
+    "ProductName": "Pepsin 1:3000",
+    "CasNo": "9001-75-6",
+    "Unit": "Kg",
+    "Making": "Ann Org",
+    "Rates": 4500
+  },
+  {
+    "ProductName": "Polymethylne Glycol 400",
+    "CasNo": "25322-68-3",
+    "Unit": "Kg",
+    "Making": "Clariant Chemicals",
+    "Rates": 130
+  },
+  {
+    "ProductName": "Sodium Citrate Anhydrous Ip",
+    "CasNo": "68-04-2",
+    "Unit": "Kg",
+    "Making": "Adani",
+    "Rates": 220
+  },
+  {
+    "ProductName": "Sodium Citrate Mono",
+    "CasNo": "6132-04-03",
+    "Unit": "Kg",
+    "Making": "Adani",
+    "Rates": 135
+  },
+  {
+    "ProductName": "Ssg USP",
+    "CasNo": "9004-34-6",
+    "Unit": "Kg",
+    "Making": "Nitika",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Ssg USP (Primogel)",
+    "CasNo": "9004-34-6",
+    "Unit": "Kg",
+    "Making": "Dfe Pharma",
+    "Rates": 560
+  },
+  {
+    "ProductName": "Silymarin Powder",
+    "CasNo": "65666-07-01",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 2600
+  },
+  {
+    "ProductName": "Talcum Powder (Non-Ip)",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Neelkanth",
+    "Rates": 15
+  },
+  {
+    "ProductName": "Talcum Powder (Non-Ip)",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Avani",
+    "Rates": 18
+  },
+  {
+    "ProductName": "Talcum Powder (Non-Ip)",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Gagan",
+    "Rates": 18
+  },
+  {
+    "ProductName": "Talcum Powder (Non-Ip)",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Kalyani",
+    "Rates": 18
+  },
+  {
+    "ProductName": "Talcum Powder",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Diamond",
+    "Rates": 18
+  },
+  {
+    "ProductName": "Talcum Powder Ip Grade",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Gagan",
+    "Rates": 19
+  },
+  {
+    "ProductName": "Talcum Powder Ip Grade",
+    "CasNo": "14807-96-6",
+    "Unit": "Kg",
+    "Making": "Kalyani",
+    "Rates": 17
+  },
+  {
+    "ProductName": "Titanium Dioxide",
+    "CasNo": "13463-67-7",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 380
+  },
+  {
+    "ProductName": "Vitamin K27 Powder",
+    "CasNo": "2124-57-4",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 42000
+  },
+  {
+    "ProductName": "Xanthan Gum 200 Mesh",
+    "CasNo": "11138-66-2",
+    "Unit": "kg",
+    "Making": "Fufeng",
+    "Rates": 680
+  },
+  {
+    "ProductName": "Xanthan Gum 200 Mesh",
+    "CasNo": "11138-66-2",
+    "Unit": "kg",
+    "Making": "Deosen",
+    "Rates": 690
+  },
+  {
+    "ProductName": "Xanthan Gum 200 Mesh",
+    "CasNo": "11138-66-2",
+    "Unit": "kg",
+    "Making": "Jianlong Bio.",
+    "Rates": 690
+  },
+  {
+    "ProductName": "Extract Shatavari",
+    "CasNo": "84775-96-2",
+    "Unit": "Kg",
+    "Making": "Aushdhi Herb.",
+    "Rates": 690
+  },
+  {
+    "ProductName": "Extract Jeewanti",
+    "CasNo": "NA",
+    "Unit": "Kg",
+    "Making": "Aushdhi Herb.",
+    "Rates": 820
+  },
+  {
+    "ProductName": "Tazobactum Sodium Sterile",
+    "CasNo": "89785-84-2",
+    "Unit": "Kg",
+    "Making": "Teena Labs",
+    "Rates": 56000
+  },
+  {
+    "ProductName": "Cefotaxime Sodium Sterile IP",
+    "CasNo": "64485-93-4",
+    "Unit": "Kg",
+    "Making": "Rajasthan Anti.",
+    "Rates": 8500
+  },
+  {
+    "ProductName": "Plts Ci 50+Folic 0.5+ Zinc 61.8 Lacs",
+    "CasNo": "NA",
+    "Unit": "Lacs",
+    "Making": "Nami",
+    "Rates": 5900
+  },
+  {
+    "ProductName": "Dummy Pellets",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Helpzyne",
+    "Rates": 140
+  },
+  {
+    "ProductName": "Flv Lemon No 1 Liq",
+    "CasNo": "NA",
+    "Unit": "Ltr.",
+    "Making": "IFF",
+    "Rates": 490
+  },
+  {
+    "ProductName": "Flv Pineapple Liq",
+    "CasNo": "NA",
+    "Unit": "Ltr.",
+    "Making": "IFF",
+    "Rates": 420
+  },
+  {
+    "ProductName": "Flv Sweet Orange No.1",
+    "CasNo": "NA",
+    "Unit": "Ltr.",
+    "Making": "IFF",
+    "Rates": 450
+  },
+  {
+    "ProductName": "Col. Brilliant Blue Fcf Lake",
+    "CasNo": "3844-45-9",
+    "Unit": "kg",
+    "Making": "Neelikon",
+    "Rates": 2500
+  },
+  {
+    "ProductName": "Col. Carmosine Lake",
+    "CasNo": "3567-69-9",
+    "Unit": "kg",
+    "Making": "Neelikon",
+    "Rates": 1500
+  },
+  {
+    "ProductName": "Col. Indigo Carmine Lake",
+    "CasNo": "860-22-0",
+    "Unit": "kg",
+    "Making": "Neelikon",
+    "Rates": 2500
+  },
+  {
+    "ProductName": "Col. Quinoline Yellow Lake",
+    "CasNo": "8004-92-0",
+    "Unit": "kg",
+    "Making": "Neelikon",
+    "Rates": 4300
+  },
+  {
+    "ProductName": "Col. Ponceau 4r Supra",
+    "CasNo": "2611-82-7",
+    "Unit": "kg",
+    "Making": "Neelikon",
+    "Rates": 1100
+  },
+  {
+    "ProductName": "Brilliant Blue Lake (MD)",
+    "CasNo": "3844-45-9",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 1250
+  },
+  {
+    "ProductName": "Brilliant Blue Supra",
+    "CasNo": "3844-45-9",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 1250
+  },
+  {
+    "ProductName": "Erytrhrosine Lake",
+    "CasNo": "16423-68-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 4350
+  },
+  {
+    "ProductName": "Erytrhrosine Supra",
+    "CasNo": "16423-68-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 7200
+  },
+  {
+    "ProductName": "Pea Green Supra",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 1050
+  },
+  {
+    "ProductName": "Ponceau 4 R Lake (HD)",
+    "CasNo": "2611-82-7",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 1050
+  },
+  {
+    "ProductName": "Ponceau 4 R Supra",
+    "CasNo": "2611-82-7",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 850
+  },
+  {
+    "ProductName": "Quionoline Yellow Lake (HD)",
+    "CasNo": "8004-92-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 2050
+  },
+  {
+    "ProductName": "Red Oxide Of Iron",
+    "CasNo": "1309-37-1",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 1750
+  },
+  {
+    "ProductName": "Sunset Yellow Lake (HD)",
+    "CasNo": "2783-94-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 950
+  },
+  {
+    "ProductName": "Sunset Yellow Supra",
+    "CasNo": "2783-94-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 650
+  },
+  {
+    "ProductName": "Tartrazine Lake (HD)",
+    "CasNo": "1934-21-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 920
+  },
+  {
+    "ProductName": "Titanium Dioxide Ip",
+    "CasNo": "13463-67-7",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 720
+  },
+  {
+    "ProductName": "Sunset Yellow Supra",
+    "CasNo": "2783-94-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 580
+  },
+  {
+    "ProductName": "Tetrazine Supra",
+    "CasNo": "1934-21-0",
+    "Unit": "kg",
+    "Making": "Sunfood",
+    "Rates": 560
+  },
+  {
+    "ProductName": "Butter Scotch Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 790
+  },
+  {
+    "ProductName": "Banana Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 690
+  },
+  {
+    "ProductName": "Chocolate Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Cardamom Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 780
+  },
+  {
+    "ProductName": "Cherry Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 650
+  },
+  {
+    "ProductName": "Lemon Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 650
+  },
+  {
+    "ProductName": "Lichee Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Mango Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Mix Fruit Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Orange Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 760
+  },
+  {
+    "ProductName": "Peppermint/Mint Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Pineapple Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 650
+  },
+  {
+    "ProductName": "Rose Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 650
+  },
+  {
+    "ProductName": "Raspberry Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 650
+  },
+  {
+    "ProductName": "Strawberry Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 720
+  },
+  {
+    "ProductName": "Vanilla Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 530
+  },
+  {
+    "ProductName": "Dry Orange Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 530
+  },
+  {
+    "ProductName": "Dry Peppermint Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 560
+  },
+  {
+    "ProductName": "Dry Pineapple Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 510
+  },
+  {
+    "ProductName": "Dry Mango Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 520
+  },
+  {
+    "ProductName": "Dry Mix Fruit Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 580
+  },
+  {
+    "ProductName": "Dry Lemon Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 580
+  },
+  {
+    "ProductName": "Dry Chocolate Flavour",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 630
+  },
+  {
+    "ProductName": "Mango Flv Alphonso",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 750
+  },
+  {
+    "ProductName": "Mixed Fruit Flv. S 1038",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 680
+  },
+  {
+    "ProductName": "Pineberry",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 780
+  },
+  {
+    "ProductName": "White Strawerry",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 890
+  },
+  {
+    "ProductName": "Btm -Bitter Mas",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 790
+  },
+  {
+    "ProductName": "Cherry No. 1",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 630
+  },
+  {
+    "ProductName": "Dry Vanilla Powder",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 550
+  },
+  {
+    "ProductName": "Mango Flv Alphonso",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 790
+  },
+  {
+    "ProductName": "Rasperberry No1",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 620
+  },
+  {
+    "ProductName": "Caramel Flv.",
+    "CasNo": "NA",
+    "Unit": "kg",
+    "Making": "Sanvee Flavours Private limited",
+    "Rates": 620
+  },
+  {
+    "ProductName": "Clobetasol Propionate Usp",
+    "CasNo": "25122-46-7",
+    "Unit": "Kg",
+    "Making": "Bhugan life",
+    "Rates": 65000
+  },
+  {
+    "ProductName": "Neosweetner",
+    "CasNo": "NA",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 450
+  },
+  {
+    "ProductName": "Ornidazole IP",
+    "CasNo": "16773-42-5",
+    "Unit": "Kg",
+    "Making": "Endoc Life.",
+    "Rates": 1090
+  },
+  {
+    "ProductName": "Dicyclomine HCL IP",
+    "CasNo": "67-92-5",
+    "Unit": "Kg",
+    "Making": "Venus Pharma",
+    "Rates": 2500
+  },
+  {
+    "ProductName": "Vitamin B2 (Rivoflavin IP)",
+    "CasNo": "83-88-5",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 4200
+  },
+  {
+    "ProductName": "Tranexamic Acid Ip",
+    "CasNo": "1197-18-8",
+    "Unit": "Kg",
+    "Making": "Shilpa",
+    "Rates": 4800
+  },
+  {
+    "ProductName": "Gabapentin",
+    "CasNo": "60142-96-3",
+    "Unit": "Kg",
+    "Making": "Beloor Bayir",
+    "Rates": 2200
+  },
+  {
+    "ProductName": "Hydrochlorothiazide IP",
+    "CasNo": "58-93-5",
+    "Unit": "kg",
+    "Making": "CTX",
+    "Rates": 1950
+  },
+  {
+    "ProductName": "Vitamin E 50%",
+    "CasNo": "59-02-9",
+    "Unit": "Kg",
+    "Making": "Sun Moon",
+    "Rates": 1050
+  },
+  {
+    "ProductName": "Hpmc K-100M",
+    "CasNo": "9004-65-3",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 735
+  },
+  {
+    "ProductName": "Hpmc E-15",
+    "CasNo": "9004-65-3",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 740
+  },
+  {
+    "ProductName": "Mannitol",
+    "CasNo": "69-65-8",
+    "Unit": "Kg",
+    "Making": "Guangdong",
+    "Rates": 420
+  },
+  {
+    "ProductName": "L-Carnitine",
+    "CasNo": "541-15-1",
+    "Unit": "Kg",
+    "Making": "China",
+    "Rates": 2800
+  },
+  {
+    "ProductName": "Methylene Di Chloride (MDC)",
+    "CasNo": "75-09-2",
+    "Unit": "Kg",
+    "Making": "Meghmani",
+    "Rates": 65
+  },
+  {
+    "ProductName": "Dcp Ip",
+    "CasNo": "7757-93-9",
+    "Unit": "Kg",
+    "Making": "Navya",
+    "Rates": 42
+  },
+  {
+    "ProductName": "Methyl Prednisolone Sod.Succinate Usp Sterile",
+    "CasNo": "2375-03-03",
+    "Unit": "Kg",
+    "Making": "Decro",
+    "Rates": 84000
+  },
+  {
+    "ProductName": "Cross Povidone XL 10",
+    "CasNo": "25249-54-1",
+    "Unit": "Kg",
+    "Making": "Dynamic",
+    "Rates": 850
+  }
+]
